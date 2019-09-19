@@ -236,13 +236,3 @@ p {
   width: 100%;
   padding: 0.5rem;
 }
-
-#contact .contact-form .submit {
-  width: 93%;
-  display: block;
-  margin: auto;
-}
-
-#contact .contact-form .submit:hover {
-  background: #000;
-}

@@ -32,6 +32,10 @@
     padding: 0.5rem;
   }
 
+  #showcase .showcase-content {
+    top: 115px;
+  }
+
   #who {
     display: block;
   }
@@ -48,17 +52,13 @@
     display: none;
   }
 
-  #showcase .showcase-content {
-    top: 115px;
-  }
-
   #contact {
     flex-direction: column;
   }
 
   #contact .map {
-    height: 200px;
-    border: 4px solid #333;
+    min-height: 300px;
+    border: 2px solid #333;
   }
 }
 
